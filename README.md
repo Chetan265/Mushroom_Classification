@@ -1,2 +1,2 @@
-# Musroom_new
+# Mushroom_new
 https://app-mushroom.herokuapp.com/
