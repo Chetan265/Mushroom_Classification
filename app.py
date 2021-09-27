@@ -44,7 +44,7 @@ def predict():
     if prediction == 0:
         label = 'Edible'
     else:
-        label = 'Poissonous'
+        label = 'Poisonous'
 
     return render_template('result.html', prediction_text='Mushroom is {}'.format(label))
 
