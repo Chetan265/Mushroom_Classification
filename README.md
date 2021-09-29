@@ -48,4 +48,4 @@ Deployment on Heroku platform
 # Author
 **Chetan Ullagaddi: linkedin.com/in/chetan-ullagaddi-361312197
 
-**If you have any suggestions or issue please drop me a message
+*If you have any suggestions or issue please drop me a message
