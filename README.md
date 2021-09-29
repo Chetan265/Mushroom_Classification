@@ -8,10 +8,13 @@ Where the dataset contains different features of the mushrooms like cap shape, c
 https://app-mushroom.herokuapp.com/
 
 # Demo
-https://www.youtube.com/watch?v=cn1xSQmh3pc
+https://www.youtube.com/watch?v=rayxBfc4xOE
 
 
-https://user-images.githubusercontent.com/77524560/135216038-26cb954a-96a5-48f5-8f6a-50e382d0af5a.mp4
+
+https://user-images.githubusercontent.com/77524560/135240906-f97dc2ef-dd7f-433a-a270-59c05538209a.mp4
+
+
 
 
 # Technical aspects
