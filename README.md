@@ -10,6 +10,10 @@ https://app-mushroom.herokuapp.com/
 # Demo
 https://www.youtube.com/watch?v=cn1xSQmh3pc
 
+
+https://user-images.githubusercontent.com/77524560/135216038-26cb954a-96a5-48f5-8f6a-50e382d0af5a.mp4
+
+
 # Technical aspects
 Python 3.8
 
@@ -24,7 +28,24 @@ Deploymnet: Heroku
 # Data Colletion
 Mushroom Classification from Kaggle.com
 
-# Data Pre-processing
+# Steps of End to End Project
+Import the data
 
+Perform EDA
 
+Data cleaning and data pre-processing
 
+Model training
+
+Parameter tuning
+
+Creating pickle file
+
+Used GitHub as version control system
+
+Deployment on Heroku platform
+
+# Author
+** Chetan Ullagaddi: linkedin.com/in/chetan-ullagaddi-361312197
+
+** If you have any suggestions or issue please drop me a message
